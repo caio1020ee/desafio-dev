@@ -1,0 +1,31 @@
+{
+  "name": "physics-calc-hack",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.12.3",
+    "@types/next": "^9.0.0",
+    "@types/react-icons": "^3.0.0",
+    "@types/styled-components": "^5.1.11",
+    "axios": "^0.24.0",
+    "husky": "^7.0.1",
+    "next": "11.0.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-icons": "^4.2.0",
+    "react-toastify": "^7.0.4",
+    "styled-components": "^5.3.0"
+  },
+  "devDependencies": {
+    "@types/react": "17.0.15",
+    "eslint": "^7.32.0",
+    "eslint-config-next": "^11.0.1",
+    "typescript": "4.3.5"
+  }
+}
